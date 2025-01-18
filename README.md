@@ -31,4 +31,4 @@ To install and use this CRM, you’ll need:
 ### Step 1: **Clone the Repository**
 If available, clone the project repository:
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/jyotirmay9994/My_Rice.git)>
